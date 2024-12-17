@@ -1,0 +1,5 @@
+train: C:\Users\dalab\Desktop\azimjaan21\SafeFactory System\Datasets\forklift/train/images
+val:  C:\Users\dalab\Desktop\azimjaan21\SafeFactory System\Datasets\forklift/valid/images
+
+nc: 1
+names: ['forklift']
