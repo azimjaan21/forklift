@@ -65,8 +65,8 @@ The integration ensures seamless deployment in industrial environments, leveragi
 ### Installation ⚙️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/forklift-detection.git
-   cd forklift-detection
+   git clone https://github.com/yourusername/forklift.git
+   cd forklift
    ```
 2. Install dependencies:
    ```bash
@@ -76,7 +76,7 @@ The integration ensures seamless deployment in industrial environments, leveragi
 ### Training the Model 💪
 Use the following command to train the model:
 ```bash
-python train.py --data forklift.yaml --epochs 50 --img 640
+python train.py --data forklift_data.yaml --epochs 50 --img 640
 ```
 
 ### Running Inference ⏯
