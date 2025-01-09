@@ -36,9 +36,11 @@ Detailed results:
 ## Prediction Results 📸
 Below are some examples of the model's detection capabilities. The images showcase the bounding boxes around forklifts detected in real-world scenarios:
 
-![🔍 Detection Example 1](path/to/example1.jpg)
-![🔍 Detection Example 2](path/to/example2.jpg)
-![🔍 Detection Example 3](path/to/example3.jpg)
+![🔍 Detection Example 1]![image](https://github.com/user-attachments/assets/2daab834-257e-4750-b446-d1305ce3c7ef)
+
+![🔍 Detection Example 2]![image](https://github.com/user-attachments/assets/accf42f8-aecc-4a0c-bcec-8d5a626041a5)
+
+![🔍 Detection Example 3]![image](https://github.com/user-attachments/assets/7600516a-fc62-44d9-87a2-ac5d489e8230)
 
 These results demonstrate the robustness of the model in various lighting and occlusion conditions.
 
