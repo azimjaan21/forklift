@@ -53,6 +53,10 @@ The YOLOv8 model has been integrated into a real-time monitoring system to enhan
 
 The integration ensures seamless deployment in industrial environments, leveraging the model's high-speed inference capabilities.
 
+## 
+![image](https://github.com/user-attachments/assets/37114758-8a43-4b84-bb3c-8e07c1559afe)
+
+
 ---
 
 ## How to Use 📚
